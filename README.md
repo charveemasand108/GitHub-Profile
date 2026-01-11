@@ -6,8 +6,6 @@ This project demonstrates practical usage of **API integration**, **async JavaSc
 
 ---
 
-## 🌐 Live Preview (Optional)
-> You can deploy this project easily using **GitHub Pages** or **Netlify**.
 
 ---
 
@@ -48,5 +46,5 @@ This project demonstrates practical usage of **API integration**, **async JavaSc
 
 ---
 
-## 📂 Project Structure
+
 
